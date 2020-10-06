@@ -1,0 +1,25 @@
+{
+  "name": "ganache-cli",
+  "version": "1.0.0",
+  "description": "A quick tutorial to get your first DApp up and running without any frameworks!",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "solc": "^0.4.20",
+    "web3": "^0.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benstew/voting-blockchain-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benstew/voting-blockchain-dapp/issues"
+  },
+  "homepage": "https://github.com/benstew/voting-blockchain-dapp#readme"
+}
